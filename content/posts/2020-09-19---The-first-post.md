@@ -22,7 +22,7 @@ Something i can promise though -
 
 Also, some posts will include a cool video, something I'm copying from [Haseeb's blog](https://haseebq.com/)
 
-<iframe width="420" height="320" src="https://www.youtube.com/embed/6z5YufE2Pj0?start=11" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6z5YufE2Pj0?start=14" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Right now the plan is to become a sponge, absorb everything , learn everything , scour the net , reach out to mentors - just gather as much information as possible. Which i then plan to put in here , hope you'll be around to read it. 
 
