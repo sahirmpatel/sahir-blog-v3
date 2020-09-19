@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Sahir',
     photo: '/blogpic.jpg',
-    bio: '👋Hi welcome to my Blog .I\'m a FullStack Developer. I write about tech , books , bodybuilding and some half baked philosophy. Currently @ <a target="_blank" href="http://bombaydc.com/">BombayDC</a> ',
+    bio: '👋Hi welcome to my Blog .I\'m a FullStack Developer. I write about tech , books , bodybuilding and some half baked philosophy. Currently @ <a href="http://bombaydc.com/">BombayDC</a> ',
     contacts: {
       email: 'sahirmpatel@gmail.com',
       facebook: '',
